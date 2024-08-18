@@ -60,5 +60,3 @@ This assumes you already have [GitHub desktop](https://desktop.github.com/) down
 9. Test your firmware
 
     When the build succeeds download the uf2 files and flash them as normal. Test the keymap, if keys are shifted one way or the other it's likely you deleted too many or not enough behaviours. 
-
-Triggering actions
